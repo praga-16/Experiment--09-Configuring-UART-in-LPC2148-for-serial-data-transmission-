@@ -1,7 +1,7 @@
 # Experiment 09 Configuring UART in LPC2148 for serial data transmission
 ```
-Name :	Sudharshna Lakshmi S
-Roll no : 212221230110
+Name :	pragatheesvaran AB
+Roll no : 212221240039
 ```
 ### Configuring UART in LPC2148 for serial data transmission 
 
@@ -74,10 +74,10 @@ int main (void)  {
 ```
 ## Output
 ### Before
-![out](1.png)
+![out](p1.png)
 
 ### After 
-![out](2.png)
+![out](p2.png)
 
 ### Circuit Driagram
 ![out](3.png)
